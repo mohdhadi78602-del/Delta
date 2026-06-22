@@ -1,2 +1,2 @@
 # Delta
-This is a Git and Git Hub Demo
+This is a Git and Git Hub Demo.
